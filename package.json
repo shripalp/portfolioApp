@@ -47,5 +47,8 @@
   },
   "devDependencies": {
     "prettier": "^2.7.1"
+  },
+  {
+    "stack": "heroku-22"
   }
 }
