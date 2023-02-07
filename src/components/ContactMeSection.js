@@ -105,6 +105,7 @@ const ContactMeSection = () => {
                   id="comment"
                   name="comment"
                   {...formik.getFieldProps('comment')}
+                  placeholder="min 25 letters"
                   height={250}
                 />
                 
